@@ -1,5 +1,12 @@
 1.Gitの練習
 2.ワークフローの学習 
+3.学習したコマンド
+  git add
+  git commit
 English Ver
 1.Rensyuu
 2.Gakusyuu
+3.Command
+  git add
+  git commit
+
